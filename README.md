@@ -17,29 +17,29 @@ Decide the election winner based on popular vote.
 
 ## Election-Audit Results
 
-### - 1.Total number of votes cast in the election.
+###  1.Total number of votes cast in the election.
 
 ![1  Total_votes](https://user-images.githubusercontent.com/105666905/176813976-3e7d2446-b998-48ee-ba23-99d5920e9c4e.png)
 
-### - 2.Number of votes and percentage of total votes.
+###  2.Number of votes and percentage of total votes.
 
 ![count_percentage(1)](https://user-images.githubusercontent.com/105666905/176814507-6417e702-4a7e-45f6-a1cf-588ffdf3a2d3.png)
 ![count_percentage(2)](https://user-images.githubusercontent.com/105666905/176814519-998d25a8-81f1-4a51-8893-a1fed1432f51.png)
 
-### - 3.Country with the largest number of votes.
+###  3.Country with the largest number of votes.
 
 ![Largest_county_votes](https://user-images.githubusercontent.com/105666905/176815774-69a7c45f-c066-45ec-9b80-2e0c432c8dff.png)
 ![Largest_county_votes(1)](https://user-images.githubusercontent.com/105666905/176815782-7bb2e056-bfd1-4d51-af74-7f9f6cc204fa.png)
 
-### - 4.Canidate votes
+###  4.Canidate votes
 
 ![Candidate_votes_percentage](https://user-images.githubusercontent.com/105666905/176815448-1a90d00a-63d6-4b68-a114-6bec6abd22fb.png)
 
-### - 5.Election winner
+###  5.Election winner
 
 ![Election_winner](https://user-images.githubusercontent.com/105666905/176817550-b87b0138-6a4f-40d6-a8c7-894fbc98ca57.png)
 
-Cont'd:
+Election-Audit Results:
 1. Total Votes Cast
 - 369,711
 2. Number of votes and the percentage yielded for the county's
