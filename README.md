@@ -40,11 +40,24 @@ Decide the election winner based on popular vote.
 ![Election_winner](https://user-images.githubusercontent.com/105666905/176817550-b87b0138-6a4f-40d6-a8c7-894fbc98ca57.png)
 
 Cont'd:
-     - Total Votes Cast
-       -369,711
+1. Total Votes Cast
+- 369,711
+2. Number of votes and the percentage yielded for the county's
+- County Votes:
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
+3. County with the largest vote count
+- Denver
+4. Number of votes cast and percentage of votes cast for each candidate
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+5. Count and percentage of votes cast for the winning candidate
+-Winner: Diana DeGette
+-Winning Vote Count: 272,892
+-Winning Percentage: 73.8%
 
-     - First nested list item
-       - Second nested list item
 
 
 ## Election-Audit Summary
